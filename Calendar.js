@@ -86,6 +86,6 @@ var mannedLanding = p => {
 
 follow("and manned", mannedLanding);
 
-intent("when was the first manned (moon landing|lunar landing)", mannedLanding);
+intent("when was the first manned (mooon landing|lunar landing)", mannedLanding);
 
 // see https://momentjs.com, moment js library is available through api.moment
