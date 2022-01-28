@@ -1,4 +1,4 @@
-// {Name: Calendar}
+// {Name:aaaaa Calendar}
 // {Description: What day is tomorrow}
 
 title("General calendar")
